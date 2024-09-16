@@ -1,2 +1,2 @@
 # Laboratorio-de-Projeto
-Código fonte do projeto 
+[Projeto_enunciado.pdf](https://github.com/user-attachments/files/17019725/Projeto_enunciado.pdf)
